@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Dayicim
+- 👀 I’m interested in software
+- 🌱 I’m currently learning Python & Java
+- 📫 How to reach me serhattergull@gmail.com
